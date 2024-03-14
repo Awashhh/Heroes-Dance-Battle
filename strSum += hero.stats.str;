@@ -1,0 +1,4 @@
+    strSum += hero.stats.str;
+    intSum += hero.stats.int;
+    agiSum += hero.stats.agi;
+    heathPointsSum += hero.healthPoints;
